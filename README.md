@@ -14,11 +14,14 @@
 ### Step 3: Inspect the Transaction
 * Launch the Streamlit application by typing `streamlit run fintech_finder.py`
 * Test on the resulting webpage:
-  - select a candidate that we would like to hire from the appropriate drop-down menu
-  - enter the number of hours that you would like to hire them for
-  - show success!
+  - Select a candidate that we would like to hire from the appropriate drop-down menu
+  - Enter the number of hours that you would like to hire them for
+  - Success!
 
 ![Screenshot 1](success.PNG)
-![Screenshot 2](address_balance.PNG)    
-![Screenshot 3](transaction_details.PNG)  
-![Screenshot 4](recipient’s_address_balance_and_history.PNG)
+
+![Screenshot 2](https://github.com/yili18/fintech_finder/blob/main/address%20balance.PNG)  
+
+![Screenshot 3](https://github.com/yili18/fintech_finder/blob/main/transaction%20details.PNG) 
+
+![Screenshot 4](https://github.com/yili18/fintech_finder/blob/main/recipient%E2%80%99s%20address%20balance%20and%20history.PNG)
