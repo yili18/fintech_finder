@@ -17,6 +17,8 @@
   - select a candidate that we would like to hire from the appropriate drop-down menu
   - enter the number of hours that you would like to hire them for
   - show success!
-    
-    
-  
+
+![Screenshot 1](success.PNG)
+![Screenshot 2](address_balance.PNG)    
+![Screenshot 3](transaction_details.PNG)  
+![Screenshot 4](recipient’s_address_balance_and_history.PNG)
